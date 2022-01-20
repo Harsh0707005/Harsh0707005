@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh0707005,
+- 👋 Hi, I’m Harsh Master (@Harsh0707005),
 - 👨‍🎓 A 11 grade Science student who is A Tech Enthusiast 👨‍💻 , an Intermediate Python Programmer with a basic knowledge of HTML, CSS and Java 
 - An Active Software Development Learner.
 - 🌱 I’m currently learning Java.
