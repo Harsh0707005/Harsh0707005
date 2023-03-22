@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Master (@Harsh0707005),
-- 👨‍🎓 A 12<sup>th</sup> grade Science student who is A Tech Enthusiast 👨‍💻 , an Intermediate Python 🐍 and C++ Programmer with a decent knowledge of Java, HTML and CSS.
+- 👨‍🎓 An upcoming first year Computer Science student who is A Tech Enthusiast 👨‍💻 , an Intermediate Python 🐍 and Android developer with a decent knowledge of web development.
 - An Active Software Development Learner.
 - 🌱 I’m currently learning Java.
 - 📫 You can reach me at harshmaster07705@gmail.com
