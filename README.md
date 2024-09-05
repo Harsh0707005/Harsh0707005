@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Master (@Harsh0707005),
-- 👨‍🎓 A first year student at IIT Madras (BS degree in Data Science and Application) who is A Tech Enthusiast 👨‍💻 , a self-taught Python 🐍 and Android developer with a decent knowledge of web development.
+- 👨‍🎓 A second year student at IIT Madras (BS degree in Data Science and Application) who is A Tech Enthusiast 👨‍💻 , a self-taught Python 🐍 and Android developer with a decent knowledge of web development.
 - An Active Software Development Learner.
 - 🌱 I’m on the journey towards Cyber Security.
 - 📫 You can reach me at harshmaster07705@gmail.com
