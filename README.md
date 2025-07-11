@@ -28,7 +28,6 @@ I believe in shipping fast, iterating smart, and thinking deep
 | **Turing** | SWE | Internal LLM tools, automation, fine-tuning, backend infra |
 | **Upercart** | Software Engineer | Revamped and management of complete tech infra |
 | **Arrival Haul** | AI ML Manager & Backend Engineer | Built recommendation model, reduced API response time from 5-6 seconds to 400-600ms |
-| **Tillmate** | CTO (Early-stage) | POS software for Jamaican retailers from ground up |
 
 ## 🧰 Tech Toolbox
 
